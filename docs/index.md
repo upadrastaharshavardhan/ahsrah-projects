@@ -4,16 +4,16 @@ You can use the [editor on GitHub](https://github.com/upadrastaharshavardhan/ahs
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### harsha
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# ahsrah-projects
+## Free BTech BE Projects | MTech ME Projects | Msc MCA Projects
+### MINI PROJECTS
 
 - Bulleted
 - List
@@ -23,7 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[https://github.com/upadrastaharshavardhan/ahsrah-projects/](https://github.com/upadrastaharshavardhan/ahsrah-projects/) and ![![icon](https://user-images.githubusercontent.com/62492737/121170445-d9277200-c872-11eb-94b7-85ec12671eba.png)
+](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

@@ -1,3 +1,3 @@
 # ahsrah-projects
 
-https://upadrastaharshavardhan.github.io/ahsrah-projects/aharah projects.html
+https://upadrastaharshavardhan.github.io/ahsrah-projects/aharahprojects.html
